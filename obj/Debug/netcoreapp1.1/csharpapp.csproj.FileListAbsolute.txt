@@ -1,0 +1,8 @@
+/Users/ashwinimanny/Documents/csharpapp/bin/Debug/netcoreapp1.1/csharpapp.deps.json
+/Users/ashwinimanny/Documents/csharpapp/bin/Debug/netcoreapp1.1/csharpapp.runtimeconfig.json
+/Users/ashwinimanny/Documents/csharpapp/bin/Debug/netcoreapp1.1/csharpapp.runtimeconfig.dev.json
+/Users/ashwinimanny/Documents/csharpapp/bin/Debug/netcoreapp1.1/csharpapp.dll
+/Users/ashwinimanny/Documents/csharpapp/bin/Debug/netcoreapp1.1/csharpapp.pdb
+/Users/ashwinimanny/Documents/csharpapp/obj/Debug/netcoreapp1.1/csharpapp.AssemblyInfo.cs
+/Users/ashwinimanny/Documents/csharpapp/obj/Debug/netcoreapp1.1/csharpapp.dll
+/Users/ashwinimanny/Documents/csharpapp/obj/Debug/netcoreapp1.1/csharpapp.pdb
